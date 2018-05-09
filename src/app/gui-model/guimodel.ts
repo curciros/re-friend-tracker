@@ -6,7 +6,7 @@
 
     private _guiModel = {
         "application": {
-            "title": Rosalias Friend Tracker",
+            "title": "Rosalias Friend Tracker",
             "formList": [
                 {
                     "id": "FriendForm",
